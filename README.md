@@ -2,6 +2,8 @@
 
 An AI-powered academic assistant that allows users to upload PDFs and ask questions using a Retrieval-Augmented Generation (RAG) pipeline.
 
+<img width="3200" height="1834" alt="Screenshot 2026-06-28 194324" src="https://github.com/user-attachments/assets/61c116fd-7a39-43ce-b934-3712a6f59d8e" />
+
 ## Features
 
 - Multi-PDF support
